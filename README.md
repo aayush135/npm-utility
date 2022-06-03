@@ -8,6 +8,8 @@ second replace <project path here> by the path where you want to create project
 
 run command: docker compose run --rm npm-utility <npm command> 
 
-## initialize node project  docker compose run --rm npm-utility npm init -y
+## initialize node project-
+  docker compose run --rm npm-utility npm init -y
 
-## initialize next js project  docker compose run --rm npm-utility npm create-next-app <project name>
+## initialize next js project-
+  docker compose run --rm npm-utility npm create-next-app <project name>
